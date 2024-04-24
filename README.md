@@ -26,3 +26,23 @@ Data Science Portfolio
 - I was mostly responsible for the preprocessing and visualizing the data as I also drafted a data quality report.
 - I also part of creating the clustering and classification model as I performed hyperparameter tuning with the help of Optuna.
 - I helped for the deployment of the project as my main role here was only the page for the data analysis.
+
+# Project 5: Analytics Translator - Working with one of the study programs of BUas (facility management) and giving solutions on how to integrate AI.
+- Working with stakeholders to understand their goals, objectives, strategies, challenges and needs;
+- Collecting, cleaning and analyze data to identify trends, patterns and insight relevant to the project as it was used R;
+- Implementing mixed-method research - both qualitative and quantitative;
+- Conducting personal research on the impact of predictive maintenance;
+- Writing policy paper in a team on how to integrate AI in the facility management program.
+
+# Project 6: Artificial Intelligence scientist - computer vision and robotics
+- Using traditional CV techniques to preprocess images;
+- Using traditional CV and deep learning models to identify the tips of the roots;
+- Working with robotics environment, so it can guide it to drop water on the tip of the roots;
+- Using reinforcement learning and traditional controller methods to guide the robot to its targets.
+
+# Project 7: Artificial Intelligence scientist - Natural Language Processing
+- Learning preprocessing techniques such as tokenization and stemming to preprocess text data;
+- Implementing word embedding to get vector representations for the data;
+- Implementing models such as Logistic Regression, Naive Bayes, RNN and Transformer learning for reaching the goal of the project;
+- Applying speech-to-text model using speechrecognition library;
+- Writing technical report for the whole project (team work) as I was responsible for the data part.

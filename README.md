@@ -1,9 +1,6 @@
 # Matey_Portfolio
 Data Science Portfolio
 
-
-Sure, here are summaries for each of the projects provided:
-
 # Project 1: Interactive Power Bi Dashboard - Analyzing Pollution in China and India (Individual)
 
 - Developed an interactive Power BI dashboard focusing on analyzing pollution data in China and India, aligned with Sustainable Development Goals (SDGs)

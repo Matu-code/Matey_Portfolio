@@ -46,6 +46,13 @@ Data Science Portfolio
 - Applied speech-to-text models using the speech recognition library
 - Contributed to writing a technical report covering the project, particularly focusing on the data aspects
 
+# Kaggle – MODELING – Kaggle competitions
+
+-	I sometimes participate in Kaggle competitions for fun as I use this opportunity to practice my modelling skills.
+-	Using different models such as XGBRboost, CatBoost, Lightgbm and ensemble.
+-	Using hyperparameter tuning such as GridSearchCV and Optuna.
+
+
 
 
 

@@ -1,0 +1,505 @@
+,Buurten,level_of_education,Year,value
+0,Valkenberg, Laag,2019,240
+1,Chassé, Laag,2019,340
+2,Fellenoord, Laag,2019,410
+3,Schorsmolen, Laag,2019,390
+4,Station, Laag,2019,360
+5,City, Laag,2019,240
+6,Belcrum, Laag,2019,510
+7,Doornbos-Linie, Laag,2019,1080
+8,Biesdonk, Laag,2019,1400
+9,Geeren-zuid, Laag,2019,1250
+10,Wisselaar, Laag,2019,1370
+11,Krogten, Laag,2019,50
+12,Geeren-noord, Laag,2019,810
+13,Waterdonken, Laag,2019,70
+14,Brabantpark, Laag,2019,1970
+15,Sportpark, Laag,2019,350
+16,Zandberg, Laag,2019,410
+17,Heusdenhout, Laag,2019,990
+18,Moleneind-oost, Laag,2019,0
+19,Hoogeind, Laag,2019,10
+20,Blauwe Kei, Laag,2019,650
+21,Ypelaar, Laag,2019,930
+22,Overakker, Laag,2019,450
+23,Ginneken, Laag,2019,950
+24,Mastbos, Laag,2019,130
+25,Boeimeer, Laag,2019,720
+26,Ruitersbos, Laag,2019,210
+27,Haagpoort, Laag,2019,550
+28,Heuvel, Laag,2019,2050
+29,Tuinzigt, Laag,2019,2120
+30,Princenhage, Laag,2019,1640
+31,Westerpark, Laag,2019,570
+32,Heilaar, Laag,2019,70
+33,Hazeldonk, Laag,2019,?
+34,Steenakker, Laag,2019,40
+35,Effen-Rith, Laag,2019,150
+36,Liesbos, Laag,2019,110
+37,Gageldonk, Laag,2019,940
+38,Kievitsloop, Laag,2019,850
+39,Kesteren, Laag,2019,1040
+40,Muizenberg, Laag,2019,780
+41,Heksenwiel, Laag,2019,990
+42,Overkroeten, Laag,2019,560
+43,Kroeten, Laag,2019,370
+44,Emer, Laag,2019,?
+45,Hagebeemd, Laag,2019,40
+46,Bavel, Laag,2019,860
+47,Nieuw Wolfslaar, Laag,2019,370
+48,Buitengebied Bavel, Laag,2019,90
+49,Ulvenhout, Laag,2019,540
+50,Buitengebied Ulvenhout, Laag,2019,50
+51,Prinsenbeek, Laag,2019,1890
+52,Buitengebied Prinsenbeek, Laag,2019,120
+53,Teteringen, Laag,2019,1260
+54,Vuchtpolder, Laag,2019,30
+55,Buitengebied Teteringen, Laag,2019,70
+56,Valkenberg, Laag,2020,240
+57,Chassé, Laag,2020,230
+58,Fellenoord, Laag,2020,430
+59,Schorsmolen, Laag,2020,390
+60,Station, Laag,2020,280
+61,City, Laag,2020,230
+62,Belcrum, Laag,2020,520
+63,Doornbos-Linie, Laag,2020,960
+64,Biesdonk, Laag,2020,1480
+65,Geeren-zuid, Laag,2020,1240
+66,Wisselaar, Laag,2020,1360
+67,Krogten, Laag,2020,50
+68,Geeren-noord, Laag,2020,790
+69,Waterdonken, Laag,2020,90
+70,Brabantpark, Laag,2020,1950
+71,Sportpark, Laag,2020,320
+72,Zandberg, Laag,2020,410
+73,Heusdenhout, Laag,2020,960
+74,Moleneind-oost, Laag,2020,0
+75,Hoogeind, Laag,2020,10
+76,Blauwe Kei, Laag,2020,590
+77,Ypelaar, Laag,2020,940
+78,Overakker, Laag,2020,410
+79,Ginneken, Laag,2020,540
+80,Mastbos, Laag,2020,170
+81,Boeimeer, Laag,2020,640
+82,Ruitersbos, Laag,2020,200
+83,Haagpoort, Laag,2020,590
+84,Heuvel, Laag,2020,2200
+85,Tuinzigt, Laag,2020,2020
+86,Princenhage, Laag,2020,1700
+87,Westerpark, Laag,2020,570
+88,Heilaar, Laag,2020,70
+89,Hazeldonk, Laag,2020,?
+90,Steenakker, Laag,2020,40
+91,Effen-Rith, Laag,2020,150
+92,Liesbos, Laag,2020,110
+93,Gageldonk, Laag,2020,840
+94,Kievitsloop, Laag,2020,820
+95,Kesteren, Laag,2020,1010
+96,Muizenberg, Laag,2020,740
+97,Heksenwiel, Laag,2020,950
+98,Overkroeten, Laag,2020,520
+99,Kroeten, Laag,2020,370
+100,Emer, Laag,2020,?
+101,Hagebeemd, Laag,2020,40
+102,Bavel, Laag,2020,810
+103,Nieuw Wolfslaar, Laag,2020,360
+104,Buitengebied Bavel, Laag,2020,100
+105,Ulvenhout, Laag,2020,600
+106,Buitengebied Ulvenhout, Laag,2020,40
+107,Prinsenbeek, Laag,2020,1840
+108,Buitengebied Prinsenbeek, Laag,2020,120
+109,Teteringen, Laag,2020,1270
+110,Vuchtpolder, Laag,2020,30
+111,Buitengebied Teteringen, Laag,2020,60
+112,Valkenberg, Laag,2021,230
+113,Chassé, Laag,2021,340
+114,Fellenoord, Laag,2021,440
+115,Schorsmolen, Laag,2021,440
+116,Station, Laag,2021,250
+117,City, Laag,2021,220
+118,Belcrum, Laag,2021,520
+119,Doornbos-Linie, Laag,2021,1020
+120,Biesdonk, Laag,2021,1430
+121,Geeren-zuid, Laag,2021,1110
+122,Wisselaar, Laag,2021,1260
+123,Krogten, Laag,2021,50
+124,Geeren-noord, Laag,2021,730
+125,Waterdonken, Laag,2021,80
+126,Brabantpark, Laag,2021,1880
+127,Sportpark, Laag,2021,300
+128,Zandberg, Laag,2021,380
+129,Heusdenhout, Laag,2021,980
+130,Moleneind-oost, Laag,2021,0
+131,Hoogeind, Laag,2021,10
+132,Blauwe Kei, Laag,2021,460
+133,Ypelaar, Laag,2021,970
+134,Overakker, Laag,2021,360
+135,Ginneken, Laag,2021,550
+136,Mastbos, Laag,2021,150
+137,Boeimeer, Laag,2021,640
+138,Ruitersbos, Laag,2021,270
+139,Haagpoort, Laag,2021,620
+140,Heuvel, Laag,2021,2090
+141,Tuinzigt, Laag,2021,2010
+142,Princenhage, Laag,2021,1640
+143,Westerpark, Laag,2021,580
+144,Heilaar, Laag,2021,70
+145,Hazeldonk, Laag,2021,?
+146,Steenakker, Laag,2021,40
+147,Effen-Rith, Laag,2021,140
+148,Liesbos, Laag,2021,120
+149,Gageldonk, Laag,2021,820
+150,Kievitsloop, Laag,2021,800
+151,Kesteren, Laag,2021,900
+152,Muizenberg, Laag,2021,680
+153,Heksenwiel, Laag,2021,880
+154,Overkroeten, Laag,2021,480
+155,Kroeten, Laag,2021,340
+156,Emer, Laag,2021,?
+157,Hagebeemd, Laag,2021,40
+158,Bavel, Laag,2021,810
+159,Nieuw Wolfslaar, Laag,2021,370
+160,Buitengebied Bavel, Laag,2021,110
+161,Ulvenhout, Laag,2021,580
+162,Buitengebied Ulvenhout, Laag,2021,40
+163,Prinsenbeek, Laag,2021,1750
+164,Buitengebied Prinsenbeek, Laag,2021,120
+165,Teteringen, Laag,2021,1150
+166,Vuchtpolder, Laag,2021,20
+167,Buitengebied Teteringen, Laag,2021,60
+168,Valkenberg, Midden,2019,740
+169,Chassé, Midden,2019,900
+170,Fellenoord, Midden,2019,580
+171,Schorsmolen, Midden,2019,1160
+172,Station, Midden,2019,730
+173,City, Midden,2019,1160
+174,Belcrum, Midden,2019,1060
+175,Doornbos-Linie, Midden,2019,1460
+176,Biesdonk, Midden,2019,1480
+177,Geeren-zuid, Midden,2019,1050
+178,Wisselaar, Midden,2019,1140
+179,Krogten, Midden,2019,70
+180,Geeren-noord, Midden,2019,850
+181,Waterdonken, Midden,2019,200
+182,Brabantpark, Midden,2019,3300
+183,Sportpark, Midden,2019,840
+184,Zandberg, Midden,2019,1290
+185,Heusdenhout, Midden,2019,1470
+186,Moleneind-oost, Midden,2019,10
+187,Hoogeind, Midden,2019,20
+188,Blauwe Kei, Midden,2019,950
+189,Ypelaar, Midden,2019,1810
+190,Overakker, Midden,2019,580
+191,Ginneken, Midden,2019,950
+192,Mastbos, Midden,2019,160
+193,Boeimeer, Midden,2019,1210
+194,Ruitersbos, Midden,2019,470
+195,Haagpoort, Midden,2019,550
+196,Heuvel, Midden,2019,2160
+197,Tuinzigt, Midden,2019,2820
+198,Princenhage, Midden,2019,2330
+199,Westerpark, Midden,2019,990
+200,Heilaar, Midden,2019,110
+201,Hazeldonk, Midden,2019,?
+202,Steenakker, Midden,2019,290
+203,Effen-Rith, Midden,2019,280
+204,Liesbos, Midden,2019,170
+205,Gageldonk, Midden,2019,1490
+206,Kievitsloop, Midden,2019,1510
+207,Kesteren, Midden,2019,1400
+208,Muizenberg, Midden,2019,950
+209,Heksenwiel, Midden,2019,1480
+210,Overkroeten, Midden,2019,1130
+211,Kroeten, Midden,2019,740
+212,Emer, Midden,2019,?
+213,Hagebeemd, Midden,2019,30
+214,Bavel, Midden,2019,1690
+215,Nieuw Wolfslaar, Midden,2019,470
+216,Buitengebied Bavel, Midden,2019,190
+217,Ulvenhout, Midden,2019,1090
+218,Buitengebied Ulvenhout, Midden,2019,100
+219,Prinsenbeek, Midden,2019,3400
+220,Buitengebied Prinsenbeek, Midden,2019,340
+221,Teteringen, Midden,2019,1950
+222,Vuchtpolder, Midden,2019,40
+223,Buitengebied Teteringen, Midden,2019,20
+224,Valkenberg, Midden,2020,
+225,Chassé, Midden,2020,
+226,Fellenoord, Midden,2020,
+227,Schorsmolen, Midden,2020,
+228,Station, Midden,2020,
+229,City, Midden,2020,
+230,Belcrum, Midden,2020,
+231,Doornbos-Linie, Midden,2020,
+232,Biesdonk, Midden,2020,
+233,Geeren-zuid, Midden,2020,
+234,Wisselaar, Midden,2020,
+235,Krogten, Midden,2020,
+236,Geeren-noord, Midden,2020,
+237,Waterdonken, Midden,2020,
+238,Brabantpark, Midden,2020,
+239,Sportpark, Midden,2020,
+240,Zandberg, Midden,2020,
+241,Heusdenhout, Midden,2020,
+242,Moleneind-oost, Midden,2020,
+243,Hoogeind, Midden,2020,
+244,Blauwe Kei, Midden,2020,
+245,Ypelaar, Midden,2020,
+246,Overakker, Midden,2020,
+247,Ginneken, Midden,2020,
+248,Mastbos, Midden,2020,
+249,Boeimeer, Midden,2020,
+250,Ruitersbos, Midden,2020,
+251,Haagpoort, Midden,2020,
+252,Heuvel, Midden,2020,
+253,Tuinzigt, Midden,2020,
+254,Princenhage, Midden,2020,
+255,Westerpark, Midden,2020,
+256,Heilaar, Midden,2020,
+257,Hazeldonk, Midden,2020,
+258,Steenakker, Midden,2020,
+259,Effen-Rith, Midden,2020,
+260,Liesbos, Midden,2020,
+261,Gageldonk, Midden,2020,
+262,Kievitsloop, Midden,2020,
+263,Kesteren, Midden,2020,
+264,Muizenberg, Midden,2020,
+265,Heksenwiel, Midden,2020,
+266,Overkroeten, Midden,2020,
+267,Kroeten, Midden,2020,
+268,Emer, Midden,2020,
+269,Hagebeemd, Midden,2020,
+270,Bavel, Midden,2020,
+271,Nieuw Wolfslaar, Midden,2020,
+272,Buitengebied Bavel, Midden,2020,
+273,Ulvenhout, Midden,2020,
+274,Buitengebied Ulvenhout, Midden,2020,
+275,Prinsenbeek, Midden,2020,
+276,Buitengebied Prinsenbeek, Midden,2020,
+277,Teteringen, Midden,2020,
+278,Vuchtpolder, Midden,2020,
+279,Buitengebied Teteringen, Midden,2020,
+280,Valkenberg, Midden,2021,
+281,Chassé, Midden,2021,
+282,Fellenoord, Midden,2021,
+283,Schorsmolen, Midden,2021,
+284,Station, Midden,2021,
+285,City, Midden,2021,
+286,Belcrum, Midden,2021,
+287,Doornbos-Linie, Midden,2021,
+288,Biesdonk, Midden,2021,
+289,Geeren-zuid, Midden,2021,
+290,Wisselaar, Midden,2021,
+291,Krogten, Midden,2021,
+292,Geeren-noord, Midden,2021,
+293,Waterdonken, Midden,2021,
+294,Brabantpark, Midden,2021,
+295,Sportpark, Midden,2021,
+296,Zandberg, Midden,2021,
+297,Heusdenhout, Midden,2021,
+298,Moleneind-oost, Midden,2021,
+299,Hoogeind, Midden,2021,
+300,Blauwe Kei, Midden,2021,
+301,Ypelaar, Midden,2021,
+302,Overakker, Midden,2021,
+303,Ginneken, Midden,2021,
+304,Mastbos, Midden,2021,
+305,Boeimeer, Midden,2021,
+306,Ruitersbos, Midden,2021,
+307,Haagpoort, Midden,2021,
+308,Heuvel, Midden,2021,
+309,Tuinzigt, Midden,2021,
+310,Princenhage, Midden,2021,
+311,Westerpark, Midden,2021,
+312,Heilaar, Midden,2021,
+313,Hazeldonk, Midden,2021,
+314,Steenakker, Midden,2021,
+315,Effen-Rith, Midden,2021,
+316,Liesbos, Midden,2021,
+317,Gageldonk, Midden,2021,
+318,Kievitsloop, Midden,2021,
+319,Kesteren, Midden,2021,
+320,Muizenberg, Midden,2021,
+321,Heksenwiel, Midden,2021,
+322,Overkroeten, Midden,2021,
+323,Kroeten, Midden,2021,
+324,Emer, Midden,2021,
+325,Hagebeemd, Midden,2021,
+326,Bavel, Midden,2021,
+327,Nieuw Wolfslaar, Midden,2021,
+328,Buitengebied Bavel, Midden,2021,
+329,Ulvenhout, Midden,2021,
+330,Buitengebied Ulvenhout, Midden,2021,
+331,Prinsenbeek, Midden,2021,
+332,Buitengebied Prinsenbeek, Midden,2021,
+333,Teteringen, Midden,2021,
+334,Vuchtpolder, Midden,2021,
+335,Buitengebied Teteringen, Midden,2021,
+336,Valkenberg, Hoog,2019,780
+337,Chassé, Hoog,2019,1440
+338,Fellenoord, Hoog,2019,390
+339,Schorsmolen, Hoog,2019,1410
+340,Station, Hoog,2019,970
+341,City, Hoog,2019,1010
+342,Belcrum, Hoog,2019,1570
+343,Doornbos-Linie, Hoog,2019,1020
+344,Biesdonk, Hoog,2019,830
+345,Geeren-zuid, Hoog,2019,430
+346,Wisselaar, Hoog,2019,680
+347,Krogten, Hoog,2019,50
+348,Geeren-noord, Hoog,2019,290
+349,Waterdonken, Hoog,2019,660
+350,Brabantpark, Hoog,2019,2880
+351,Sportpark, Hoog,2019,1320
+352,Zandberg, Hoog,2019,2330
+353,Heusdenhout, Hoog,2019,1200
+354,Moleneind-oost, Hoog,2019,30
+355,Hoogeind, Hoog,2019,0
+356,Blauwe Kei, Hoog,2019,1270
+357,Ypelaar, Hoog,2019,1440
+358,Overakker, Hoog,2019,1100
+359,Ginneken, Hoog,2019,2100
+360,Mastbos, Hoog,2019,190
+361,Boeimeer, Hoog,2019,2350
+362,Ruitersbos, Hoog,2019,900
+363,Haagpoort, Hoog,2019,620
+364,Heuvel, Hoog,2019,1750
+365,Tuinzigt, Hoog,2019,1450
+366,Princenhage, Hoog,2019,2480
+367,Westerpark, Hoog,2019,1030
+368,Heilaar, Hoog,2019,170
+369,Hazeldonk, Hoog,2019,?
+370,Steenakker, Hoog,2019,120
+371,Effen-Rith, Hoog,2019,220
+372,Liesbos, Hoog,2019,230
+373,Gageldonk, Hoog,2019,1400
+374,Kievitsloop, Hoog,2019,1020
+375,Kesteren, Hoog,2019,620
+376,Muizenberg, Hoog,2019,670
+377,Heksenwiel, Hoog,2019,1050
+378,Overkroeten, Hoog,2019,810
+379,Kroeten, Hoog,2019,680
+380,Emer, Hoog,2019,?
+381,Hagebeemd, Hoog,2019,100
+382,Bavel, Hoog,2019,1460
+383,Nieuw Wolfslaar, Hoog,2019,890
+384,Buitengebied Bavel, Hoog,2019,170
+385,Ulvenhout, Hoog,2019,1550
+386,Buitengebied Ulvenhout, Hoog,2019,90
+387,Prinsenbeek, Hoog,2019,2710
+388,Buitengebied Prinsenbeek, Hoog,2019,190
+389,Teteringen, Hoog,2019,2270
+390,Vuchtpolder, Hoog,2019,10
+391,Buitengebied Teteringen, Hoog,2019,50
+392,Valkenberg, Hoog,2020,800
+393,Chassé, Hoog,2020,1870
+394,Fellenoord, Hoog,2020,390
+395,Schorsmolen, Hoog,2020,1520
+396,Station, Hoog,2020,1060
+397,City, Hoog,2020,1020
+398,Belcrum, Hoog,2020,1580
+399,Doornbos-Linie, Hoog,2020,1260
+400,Biesdonk, Hoog,2020,720
+401,Geeren-zuid, Hoog,2020,470
+402,Wisselaar, Hoog,2020,510
+403,Krogten, Hoog,2020,60
+404,Geeren-noord, Hoog,2020,290
+405,Waterdonken, Hoog,2020,620
+406,Brabantpark, Hoog,2020,2880
+407,Sportpark, Hoog,2020,1350
+408,Zandberg, Hoog,2020,2340
+409,Heusdenhout, Hoog,2020,1210
+410,Moleneind-oost, Hoog,2020,30
+411,Hoogeind, Hoog,2020,0
+412,Blauwe Kei, Hoog,2020,1310
+413,Ypelaar, Hoog,2020,1560
+414,Overakker, Hoog,2020,1150
+415,Ginneken, Hoog,2020,2360
+416,Mastbos, Hoog,2020,240
+417,Boeimeer, Hoog,2020,2360
+418,Ruitersbos, Hoog,2020,890
+419,Haagpoort, Hoog,2020,640
+420,Heuvel, Hoog,2020,1640
+421,Tuinzigt, Hoog,2020,1560
+422,Princenhage, Hoog,2020,2450
+423,Westerpark, Hoog,2020,1050
+424,Heilaar, Hoog,2020,170
+425,Hazeldonk, Hoog,2020,?
+426,Steenakker, Hoog,2020,130
+427,Effen-Rith, Hoog,2020,230
+428,Liesbos, Hoog,2020,230
+429,Gageldonk, Hoog,2020,1360
+430,Kievitsloop, Hoog,2020,1020
+431,Kesteren, Hoog,2020,650
+432,Muizenberg, Hoog,2020,670
+433,Heksenwiel, Hoog,2020,1050
+434,Overkroeten, Hoog,2020,800
+435,Kroeten, Hoog,2020,680
+436,Emer, Hoog,2020,?
+437,Hagebeemd, Hoog,2020,90
+438,Bavel, Hoog,2020,1520
+439,Nieuw Wolfslaar, Hoog,2020,870
+440,Buitengebied Bavel, Hoog,2020,190
+441,Ulvenhout, Hoog,2020,1560
+442,Buitengebied Ulvenhout, Hoog,2020,80
+443,Prinsenbeek, Hoog,2020,2850
+444,Buitengebied Prinsenbeek, Hoog,2020,200
+445,Teteringen, Hoog,2020,2430
+446,Vuchtpolder, Hoog,2020,10
+447,Buitengebied Teteringen, Hoog,2020,50
+448,Valkenberg, Hoog,2021,840
+449,Chassé, Hoog,2021,1490
+450,Fellenoord, Hoog,2021,380
+451,Schorsmolen, Hoog,2021,1550
+452,Station, Hoog,2021,1090
+453,City, Hoog,2021,1090
+454,Belcrum, Hoog,2021,1570
+455,Doornbos-Linie, Hoog,2021,1310
+456,Biesdonk, Hoog,2021,740
+457,Geeren-zuid, Hoog,2021,630
+458,Wisselaar, Hoog,2021,500
+459,Krogten, Hoog,2021,50
+460,Geeren-noord, Hoog,2021,450
+461,Waterdonken, Hoog,2021,620
+462,Brabantpark, Hoog,2021,3100
+463,Sportpark, Hoog,2021,1370
+464,Zandberg, Hoog,2021,2310
+465,Heusdenhout, Hoog,2021,1260
+466,Moleneind-oost, Hoog,2021,30
+467,Hoogeind, Hoog,2021,0
+468,Blauwe Kei, Hoog,2021,1290
+469,Ypelaar, Hoog,2021,1530
+470,Overakker, Hoog,2021,1160
+471,Ginneken, Hoog,2021,2420
+472,Mastbos, Hoog,2021,260
+473,Boeimeer, Hoog,2021,2480
+474,Ruitersbos, Hoog,2021,900
+475,Haagpoort, Hoog,2021,610
+476,Heuvel, Hoog,2021,1710
+477,Tuinzigt, Hoog,2021,1680
+478,Princenhage, Hoog,2021,2470
+479,Westerpark, Hoog,2021,1040
+480,Heilaar, Hoog,2021,180
+481,Hazeldonk, Hoog,2021,?
+482,Steenakker, Hoog,2021,130
+483,Effen-Rith, Hoog,2021,250
+484,Liesbos, Hoog,2021,250
+485,Gageldonk, Hoog,2021,1370
+486,Kievitsloop, Hoog,2021,970
+487,Kesteren, Hoog,2021,680
+488,Muizenberg, Hoog,2021,640
+489,Heksenwiel, Hoog,2021,1070
+490,Overkroeten, Hoog,2021,840
+491,Kroeten, Hoog,2021,660
+492,Emer, Hoog,2021,?
+493,Hagebeemd, Hoog,2021,80
+494,Bavel, Hoog,2021,1540
+495,Nieuw Wolfslaar, Hoog,2021,890
+496,Buitengebied Bavel, Hoog,2021,180
+497,Ulvenhout, Hoog,2021,1570
+498,Buitengebied Ulvenhout, Hoog,2021,100
+499,Prinsenbeek, Hoog,2021,3000
+500,Buitengebied Prinsenbeek, Hoog,2021,200
+501,Teteringen, Hoog,2021,2540
+502,Vuchtpolder, Hoog,2021,20
+503,Buitengebied Teteringen, Hoog,2021,40

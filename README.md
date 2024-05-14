@@ -26,6 +26,7 @@ Data Science Portfolio
 - Responsible for preprocessing, visualizing data, and drafting a data quality report
 - Contributed to developing clustering and classification models, including hyperparameter tuning with Optuna
 - Assisted in deploying the project, particularly focusing on the data analysis page
+- Deployed the project using streamlit
  
 # Project 5: Analytics Translator - Integrating AI into Facility Management Program (Group)
 

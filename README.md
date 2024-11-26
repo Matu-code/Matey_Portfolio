@@ -47,6 +47,12 @@ Data Science Portfolio
 - Applied speech-to-text models using the speech recognition library
 - Contributed to writing a technical report covering the project, particularly focusing on the data aspects
 
+# Project 8: Machine Learning Engineer - Deployment (Team)
+
+- Worked on deploying a Machile Learning project (project 6)
+- Involved in a team as I was responsible for everything related with Azure
+- Model was deployed in two ways - normally and green/blue deployment
+
 # Kaggle – Modeling – Kaggle competitions
 
 -	I sometimes participate in Kaggle competitions for fun as I use this opportunity to practice my modelling skills.
